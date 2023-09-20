@@ -29,3 +29,5 @@ setInterval(() => {
 }, 1000);
 
 // Modification dans la branche 1
+
+// Modification dans la branche 2
