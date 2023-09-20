@@ -28,3 +28,4 @@ setInterval(() => {
     document.querySelector("h3").innerText = new Date().toLocaleTimeString();
 }, 1000);
 
+// Modification dans la branche 1
